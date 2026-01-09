@@ -1,4 +1,4 @@
-# 💫 About Me: <br>👋 Hi, I'm [Your Name] | Data Science Student & Web Developer
+# 💫 About Me: <br>👋 Hi, I'm Anurag Singh  | Data Science Student & Web Developer
 Welcome to my GitHub profile! I'm a passionate data science student who loves building interactive data analysis dashboards, creative web designs, and fun web games. This space showcases my journey through code, data, and creativity.
 
 
