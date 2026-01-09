@@ -1,5 +1,5 @@
-# 💫 About Me:
-i'm data science student. <br>i'm intrested in making creative web designs and fun games .
+# 💫 About Me: <br>👋 Hi, I'm [Your Name] | Data Science Student & Web Developer
+Welcome to my GitHub profile! I'm a passionate data science student who loves building interactive data analysis dashboards, creative web designs, and fun web games. This space showcases my journey through code, data, and creativity.
 
 
 ## 🌐 Socials:
