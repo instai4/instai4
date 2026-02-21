@@ -1,0 +1,16 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sphereGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea"/>
+      <stop offset="50%" style="stop-color:#764ba2"/>
+      <stop offset="100%" style="stop-color:#f093fb"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(100,100)">
+    <circle r="60" fill="url(#sphereGrad)" opacity="0.8" style="filter: drop-shadow(0 15px 30px rgba(0,0,0,0.5));"/>
+    <ellipse rx="60" ry="15" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    <ellipse rx="60" ry="15" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1" transform="rotate(45)"/>
+    <ellipse rx="60" ry="15" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1" transform="rotate(90)"/>
+    <text x="0" y="8" text-anchor="middle" fill="white" font-size="28" font-weight="bold">📊</text>
+  </g>
+</svg>
