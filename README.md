@@ -18,4 +18,3 @@ Welcome to my GitHub profile! I'm a passionate data science student who loves bu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-need more better version and 3d animations on my readmd file
