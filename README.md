@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate data science student who loves bu
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=instai4&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 
 
 
