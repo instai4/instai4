@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm a passionate data science student who loves bu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/PoisonMunna">
+  <a href="https://github.com/instai4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=instai4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mayank's Stats" />
   </a>
-  <a href="https://github.com/PoisonMunna">
+  <a href="https://github.com/instai4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=instai4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
