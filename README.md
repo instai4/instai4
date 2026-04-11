@@ -16,7 +16,7 @@
   <a href="https://github.com/INSTAI4">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=INSTAI4&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="INSTAI4's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=INSTAI4&theme=dracula&hide_border=true&cache_seconds=86400" alt="INSTAI4's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=instai4&theme=dracula&hide_border=true&cache_seconds=86400" alt="INSTAI4's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=INSTAI4&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ANURAG SINGH's GitHub Trophies" />
