@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm ANURAG SINGH</h1>
 <h3 align="center">Data Science Student & Web Developer </h3>
-<h4 align="center">Welcome to my GitHub profile! I'm a passionate data science student who loves building interactive data analysis dashboards, creative web designs, and fun web games. This space showcases my journey through code, data, and creativity
+<h4 align="center">Welcome to my GitHub profile! I'm a passionate data science student who loves building interactive data analysis dashboards, creative web designs, and fun web games. This space showcases my journey through code, data, and creativity.
   
 </h4>
 
